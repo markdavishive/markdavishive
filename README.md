@@ -30,27 +30,6 @@
 
 ---
 
-## 📊 Estatísticas e Tecnologias
-
-Na HIVEPlace, utilizamos uma variedade de tecnologias e ferramentas para fornecer soluções de ponta em Cloud e DevOps. Nossas principais competências incluem:
-
-- **Cloud Computing:** Implementação e gerenciamento de infraestruturas escaláveis utilizando provedores líderes como AWS e Azure.
-- **Contêineres e Orquestração:** Uso extensivo de Docker para contêinerização de aplicações e Kubernetes para orquestração e gerenciamento de clusters.
-- **Infraestrutura como Código (IaC):** Automatização de provisionamento de infraestrutura com Terraform e Terragrunt, garantindo ambientes consistentes e reproduzíveis.
-- **Entrega Contínua e Automação:** Implementação de pipelines CI/CD robustos utilizando ferramentas como ArgoCD e Atlantis para automação de deploys e gerenciamento de código.
-- **Práticas de GitOps:** Adoção de fluxos de trabalho GitOps para garantir que o estado do sistema seja definido e gerenciado através de repositórios Git, promovendo maior controle de versão e auditoria.
-
-Para saber mais sobre nossos projetos e contribuições, visite nossos repositórios:
-
-- [Repositório 1](https://github.com/hiveplace/repo1): Descrição breve do repositório 1.
-- [Repositório 2](https://github.com/hiveplace/repo2): Descrição breve do repositório 2.
-- [Repositório 3](https://github.com/hiveplace/repo3): Descrição breve do repositório 3.
-
-Para uma visão geral das nossas atividades e contribuições, você pode visitar nossa [página de perfil da organização](https://github.com/hiveplace).
-
-
----
-
 ## 🌱 Sobre a HIVEPlace
 
 <div align="center" style="padding: 20px; background: #2e2e3e; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
