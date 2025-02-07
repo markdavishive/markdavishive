@@ -12,19 +12,6 @@
 
 ---
 
-## 📊 Estatísticas e Tecnologias
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HIVEPlace&show_icons=true&theme=dracula&hide_border=true" alt="HIVEPlace GitHub stats" width="45%" style="border-radius: 10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HIVEPlace&hide_progress=true&theme=dracula&layout=compact&hide_border=true" alt="Top Langs" width="45%" style="border-radius: 10px;"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HIVEPlace&theme=dracula&bg_color=282a36&hide_border=true" alt="Activity Graph"/>
-</div>
-
----
-
 ## 🚀 Tecnologias e Ferramentas
 
 <div align="center" style="padding: 10px; background: #2e2e3e; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
@@ -78,10 +65,10 @@
   <a href="https://www.linkedin.com/company/hiveplace" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:contact@hiveplace.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="mailto:contato@hiveplace.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email">
   </a>
-  <a href="https://www.hiveplace.com" target="_blank">
+  <a href="https://www.hiveplace.com.br/" target="_blank">
     <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
   </a>
 </div>
