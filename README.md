@@ -40,3 +40,9 @@ Sou Engenheiro Pleno em Cloud na HIVEPlace, atuando com foco em AWS e GitOps par
     </tr>
   </table>
 </div>
+
+## Gráfico de Atividades
+
+<div align="center">
+  <img src="atividade.png" alt="Gráfico de Atividades" style="max-width:100%;">
+</div>
