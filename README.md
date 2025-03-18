@@ -41,8 +41,8 @@ Sou Engenheiro Pleno em Cloud na HIVEPlace, atuando com foco em AWS e GitOps par
   </table>
 </div>
 
-## Gráfico de Atividades
+## Gráfico de Atividades no GitHub
 
 <div align="center">
-  <img src="atividade.png" alt="Gráfico de Atividades" style="max-width:100%;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=markdavishive&theme=github" alt="GitHub Activity Graph" style="max-width:100%;">
 </div>
