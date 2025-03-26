@@ -44,12 +44,6 @@ Sou **Engenheiro Pleno em Cloud** na **HIVEPlace**, apaixonado por automação, 
   </table>
 </div>
 
-<!-- Linguagens mais usadas (dinâmico via GitHub Stats) -->
-## 🖥️ Linguagens Mais Usadas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markdavishive&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Top Languages" />
-</p>
-
 <!-- Gráfico de atividades -->
 ## 📊 Minhas Atividades no GitHub
 <div align="center">
@@ -57,8 +51,7 @@ Sou **Engenheiro Pleno em Cloud** na **HIVEPlace**, apaixonado por automação, 
 </div>
 
 <!-- Stats adicionais -->
-## 📈 Estatísticas e Conquistas
+## 📈 Estatísticas
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=markdavishive&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=markdavishive&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
