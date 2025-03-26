@@ -31,7 +31,7 @@ Sou **Engenheiro Pleno em Cloud** na **HIVEPlace**, apaixonado por automação, 
     </tr>
     <tr>
       <td style="padding: 12px; text-align: right;"><strong>🏆 Conquistas:</strong></td>
-      <td style="padding: 12px;">Reduzi o tempo de deploy em 40%, implementei GitOps em larga escala e aumentei a confiabilidade das entregas em 95%.</td>
+      <td style="padding: 12px;">Arquitetura de uma solução de alta disponibilidade na AWS que suporta milhares de usuários, automação de 80% dos fluxos de deploy com GitHub Actions e redução de custos operacionais em 25% com otimizações em Kubernetes.</td>
     </tr>
     <tr>
       <td style="padding: 12px; text-align: right;"><strong>🛠️ Tecnologias:</strong></td>
@@ -54,4 +54,5 @@ Sou **Engenheiro Pleno em Cloud** na **HIVEPlace**, apaixonado por automação, 
 ## 📈 Estatísticas
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=markdavishive&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=markdavishive&repo=seu-repositorio-favorito&theme=radical&hide_border=true" alt="Pinned Repository" />
 </p>
