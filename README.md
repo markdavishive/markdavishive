@@ -31,7 +31,7 @@ Sou **Engenheiro Pleno em Cloud** na **HIVEPlace**, apaixonado por automação, 
     </tr>
     <tr>
       <td style="padding: 12px; text-align: right;"><strong>🏆 Projetos em Destaque:</strong></td>
-      <td style="padding: 12px;">Liderança na implementação de pipelines CI/CD que aceleraram entregas em 40%, design de ambientes Kubernetes tolerantes a falhas e integração de Snyk e SonarCloud para elevar a segurança e qualidade do código.</td>
+      <td style="padding: 12px;">Liderança na implementação de pipelines CI/CD que aceleraram entregas, design de ambientes Kubernetes tolerantes a falhas e integração de Snyk e SonarCloud para elevar a segurança e qualidade do código.</td>
     </tr>
     <tr>
       <td style="padding: 12px; text-align: right;"><strong>🛠️ Tecnologias:</strong></td>
