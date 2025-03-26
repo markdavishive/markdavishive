@@ -30,8 +30,8 @@ Sou **Engenheiro Pleno em Cloud** na **HIVEPlace**, apaixonado por automação, 
       <td style="padding: 12px;">Liderar projetos de infraestrutura, desenvolver pipelines CI/CD, gerenciar ambientes em nuvem e implementar automações com Terraform e GitOps.</td>
     </tr>
     <tr>
-      <td style="padding: 12px; text-align: right;"><strong>🏆 Conquistas:</strong></td>
-      <td style="padding: 12px;">Arquitetura de uma solução de alta disponibilidade na AWS que suporta milhares de usuários, automação de 80% dos fluxos de deploy com GitHub Actions e redução de custos operacionais em 25% com otimizações em Kubernetes.</td>
+      <td style="padding: 12px; text-align: right;"><strong>🏆 Projetos em Destaque:</strong></td>
+      <td style="padding: 12px;">Liderança na implementação de pipelines CI/CD que aceleraram entregas em 40%, design de ambientes Kubernetes tolerantes a falhas e integração de Snyk e SonarCloud para elevar a segurança e qualidade do código.</td>
     </tr>
     <tr>
       <td style="padding: 12px; text-align: right;"><strong>🛠️ Tecnologias:</strong></td>
@@ -54,5 +54,4 @@ Sou **Engenheiro Pleno em Cloud** na **HIVEPlace**, apaixonado por automação, 
 ## 📈 Estatísticas
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=markdavishive&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=markdavishive&repo=seu-repositorio-favorito&theme=radical&hide_border=true" alt="Pinned Repository" />
 </p>
