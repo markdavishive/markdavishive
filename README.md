@@ -54,4 +54,13 @@ Sou **Engenheiro Pleno em Cloud** na **HIVEPlace**, apaixonado por automação, 
 ## 📈 Estatísticas
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=markdavishive&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=markdavishive&theme=dracula&no-frame=true&margin-w=15" alt="Trophies" />
+</p>
+
+<!-- Ferramentas favoritas -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-FF5733?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
