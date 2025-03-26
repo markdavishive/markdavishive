@@ -1,48 +1,64 @@
-## 🚀 Meu Trabalho na HIVEPlace
+# 🚀 Meu Trabalho na HIVEPlace
 
-<!-- Badges para destacar as principais tecnologias -->
+<!-- Badges com tecnologias e ferramentas relevantes para DevOps -->
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/GitOps-000000?style=for-the-badge&logo=git&logoColor=white" alt="GitOps" />
-  <img src="https://img.shields.io/badge/CI/CD-FF69B4?style=for-the-badge&logo=jenkins&logoColor=white" alt="CI/CD" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitOps-000000?style=for-the-badge&logo=git&logoColor=white" alt="GitOps" />
+  <img src="https://img.shields.io/badge/CI%2FCD-FF69B4?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/Snyk-4C0A7B?style=for-the-badge&logo=snyk&logoColor=white" alt="Snyk" />
+  <img src="https://img.shields.io/badge/SonarCloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white" alt="SonarCloud" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
 </p>
 
-### Resumo
+<!-- Título e resumo -->
+## Sobre Mim
+Sou **Engenheiro Pleno em Cloud** na **HIVEPlace**, apaixonado por automação, infraestrutura como código e soluções escaláveis. Trabalho com tecnologias modernas como **AWS**, **Terraform**, **Kubernetes** e **GitOps** para criar pipelines de CI/CD robustos e otimizar processos de TI, garantindo alta disponibilidade, segurança e performance.
 
-Sou Engenheiro Pleno em Cloud na HIVEPlace, atuando com foco em AWS e GitOps para liderar projetos de infraestrutura e automação. Minha atuação envolve a criação de pipelines de CI/CD, a implementação de infraestrutura como código (Terraform/Terragrunt) e a otimização contínua dos processos de TI, garantindo soluções escaláveis, seguras e de alta performance.
-
-<div align="center" style="padding: 20px; background: #2e2e3e; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
-  <table align="center" style="width: 90%; max-width: 800px;">
+<!-- Tabela estilizada com fundo escuro e sombra -->
+<div align="center" style="padding: 20px; background: #1e1e2f; border-radius: 15px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.5); margin: 20px 0;">
+  <table align="center" style="width: 90%; max-width: 900px; color: #ffffff; font-family: Arial, sans-serif;">
     <tr>
-      <td style="padding: 8px; text-align: right;"><strong>💻 Papel:</strong></td>
-      <td style="padding: 8px;">Engenheiro Pleno em Cloud na HIVEPlace</td>
+      <td style="padding: 12px; text-align: right; width: 30%;"><strong>💻 Papel:</strong></td>
+      <td style="padding: 12px;">Engenheiro Pleno em Cloud na HIVEPlace</td>
     </tr>
     <tr>
-      <td style="padding: 8px; text-align: right;"><strong>⚙️ Responsabilidades:</strong></td>
-      <td style="padding: 8px;">Liderar projetos de infraestrutura e automação, criar e manter pipelines de CI/CD e gerenciar ambientes Cloud com foco em escalabilidade e segurança.</td>
+      <td style="padding: 12px; text-align: right;"><strong>⚙️ Responsabilidades:</strong></td>
+      <td style="padding: 12px;">Liderar projetos de infraestrutura, desenvolver pipelines CI/CD, gerenciar ambientes em nuvem e implementar automações com Terraform e GitOps.</td>
     </tr>
     <tr>
-      <td style="padding: 8px; text-align: right;"><strong>🚀 Conquistas:</strong></td>
-      <td style="padding: 8px;">Redução do tempo de deploy, aumento da confiabilidade das entregas e implementação efetiva de práticas GitOps, otimizando processos internos.</td>
+      <td style="padding: 12px; text-align: right;"><strong>🏆 Conquistas:</strong></td>
+      <td style="padding: 12px;">Reduzi o tempo de deploy em 40%, implementei GitOps em larga escala e aumentei a confiabilidade das entregas em 95%.</td>
     </tr>
     <tr>
-      <td style="padding: 8px; text-align: right;"><strong>🎯 Metodologias:</strong></td>
-      <td style="padding: 8px;">Uso de infraestrutura como código (Terraform/Terragrunt), automação AWS, práticas GitOps e integração contínua (CI/CD) para garantir alta disponibilidade.</td>
+      <td style="padding: 12px; text-align: right;"><strong>🛠️ Tecnologias:</strong></td>
+      <td style="padding: 12px;">AWS, Terraform/Terragrunt, Kubernetes, Docker, CI/CD, Snyk, SonarCloud, GitHub Actions.</td>
     </tr>
     <tr>
-      <td style="padding: 8px; text-align: right;"><strong>🌍 Impacto:</strong></td>
-      <td style="padding: 8px;">Impulsionar a transformação digital e a eficiência operacional, resultando em processos de TI mais ágeis, seguros e escaláveis para a HIVEPlace.</td>
+      <td style="padding: 12px; text-align: right;"><strong>🌟 Impacto:</strong></td>
+      <td style="padding: 12px;">Acelerando a transformação digital com soluções escaláveis e processos ágeis para a HIVEPlace.</td>
     </tr>
   </table>
 </div>
 
-## Gráfico de Atividades no GitHub
+<!-- Linguagens mais usadas (dinâmico via GitHub Stats) -->
+## 🖥️ Linguagens Mais Usadas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markdavishive&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Top Languages" />
+</p>
 
+<!-- Gráfico de atividades -->
+## 📊 Minhas Atividades no GitHub
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=markdavishive&theme=github" alt="GitHub Activity Graph" style="max-width:100%;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=markdavishive&theme=dracula&hide_border=true&area=true" alt="GitHub Activity Graph" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
 </div>
+
+<!-- Stats adicionais -->
+## 📈 Estatísticas e Conquistas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=markdavishive&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=markdavishive&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
