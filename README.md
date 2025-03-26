@@ -16,7 +16,7 @@
 
 <!-- Título e resumo -->
 ## Sobre Mim
-Sou **Engenheiro Pleno em Cloud** na **HIVEPlace**, apaixonado por automação, infraestrutura como código e soluções escaláveis. Trabalho com tecnologias modernas como **AWS**, **Terraform**, **Kubernetes** e **GitOps** para criar pipelines de CI/CD robustos e otimizar processos de TI, garantindo alta disponibilidade, segurança e performance.
+Sou **Engenheiro Pleno em Cloud** na **HIVEPlace**, apaixonado por automação, infraestrutura como código e soluções escaláveis. Trabalho com tecnologias modernas como **AWS**, **Terraform**, **Kubernetes** e **GitOps** para criar pipelines de CI/CD robustos e otimizar processos, garantindo alta disponibilidade, segurança e performance.
 
 <!-- Tabela estilizada com fundo escuro e sombra -->
 <div align="center" style="padding: 20px; background: #1e1e2f; border-radius: 15px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.5); margin: 20px 0;">
