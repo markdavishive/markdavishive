@@ -17,10 +17,8 @@
 ### 👨‍💻 Sobre Mim
 
 - 👨‍💼 Engenheiro Pleno em Cloud na **HIVEPlace**
-- 🧠 Ex-Responsável por TI da **CRB**
 - 🎯 Projetando infraestrutura com foco em **IaC**, **CI/CD**, **segurança** e **alta disponibilidade**
 - 🔒 Integração com **Snyk**, **SonarCloud** e práticas DevSecOps
-- 📈 Transformação digital como missão
 
 ---
 
