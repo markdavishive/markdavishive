@@ -47,18 +47,20 @@
 ### 🧰 Languages and Tools
 
 <p align="center">
-  <!-- Ferramentas com ícones SVG -->
+  <!-- DevOps e Cloud -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <!-- Linguagens -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <!-- Ferramentas com badge -->
-  <img src="https://img.shields.io/badge/Snyk-4C0A7B?style=for-the-badge&logo=snyk&logoColor=white" alt="Snyk" />
-  <img src="https://img.shields.io/badge/SonarCloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white" alt="SonarCloud" />
+  <!-- Segurança e Qualidade -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Snyk_logo.svg" height="40" alt="Snyk" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/SonarCloud_Logo.svg" height="40" alt="SonarCloud" />
 </p>
+
 
 
 ---
