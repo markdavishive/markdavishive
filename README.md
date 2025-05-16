@@ -15,7 +15,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-- 👷‍♂️ Atualmente atuando como **Engenheiro de Cloud** na HIVEPlace
+- 👷‍♂️ **Engenheiro de Cloud** na HIVEPlace
 - 🚀 Foco em **infraestrutura como código (IaC)**, **automação de pipelines CI/CD**, e **GitOps**
 - 🔐 Práticas de **DevSecOps**, com integração de **Snyk**, **SonarCloud** e segurança como prioridade
 - 🌎 Atuando com ambientes **multi-cloud** e soluções de **alta disponibilidade**
