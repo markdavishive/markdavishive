@@ -60,9 +60,6 @@
   <img src="https://img.shields.io/badge/SonarCloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white" alt="SonarCloud Badge" />
 </p>
 
-
-
-
 ---
 
 ### 🔥 Gráfico de Atividades
@@ -71,6 +68,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=markdavishive&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
----
-
-### 💻 Keep coding & keep scaling 🚀
