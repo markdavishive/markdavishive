@@ -6,7 +6,7 @@
 <h3 align="center">💻 DevOps | Cloud | Infraestrutura como Código | GitOps</h3>
 
 <p align="center">
-  Engenheiro Pleno em Cloud na <strong>HIVEPlace</strong> •
+  Engenheiro Pleno em Cloud na <strong>HIVEPlace</strong>
   <br />
   Especialista em <code>AWS</code>, <code>Terraform</code>, <code>Kubernetes</code> e práticas modernas de <strong>CI/CD</strong>.
 </p>
