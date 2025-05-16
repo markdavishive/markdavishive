@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7B42BC&height=180&section=header&text=🚀%20MARK%20DAVIS%20JÚNIOR%20🛠️&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">💻 DevOps | Cloud | Infraestrutura como Código | GitOps</h3>
+<h3 align="center">💻 DevOps | Cloud | IaC | GitOps</h3>
 
 <p align="center">
   Engenheiro Pleno em Cloud na <strong>HIVEPlace</strong>
