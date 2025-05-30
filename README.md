@@ -1,62 +1,74 @@
-<!-- Banner principal -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B42BC&height=180&section=header&text=MARK%20DAVIS%20JÚNIOR&fontSize=35&fontColor=ffffff&animation=fadeIn" />
-</p>
+# 🚀 Mark Davis Júnior
 
-<h3 align="center">Engenheiro DevOps Pleno | Especialista em Cloud e Automação</h3>
+**`Cloud & DevOps Engineer`**
 
-<p align="center">
-  <a href="https://linkedin.com/in/mark-davis-junior">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:markdavisjr01@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+Sou engenheiro de Cloud especializado em arquitetura escalável, automação de infraestrutura e práticas modernas de DevOps. Atuo na engenharia de infraestrutura para startups e ambientes multi-cloud com foco em alta performance, segurança e resiliência operacional.
 
----
-
-### 👨‍💻 Sobre Mim
-
-Sou um engenheiro DevOps com foco em infraestrutura como código, automação de pipelines CI/CD e práticas modernas de GitOps. Atualmente, atuo como Engenheiro Pleno em Cloud na HIVEPlace, liderando iniciativas de infraestrutura e automação em ambientes multi-cloud, com ênfase em AWS e Huawei Cloud.
-
----
-
-### 🛠️ Habilidades Técnicas
-
-- **Cloud:** AWS, Huawei Cloud
-- **IaC:** Terraform, Terragrunt, CloudFormation
-- **Containers e Orquestração:** Docker, Kubernetes (EKS), ArgoCD
-- **CI/CD:** GitHub Actions, Atlantis
-- **Linguagens:** Python, Golang, Node.js, Vue.js
-- **Segurança:** Snyk, SonarCloud
-- **Monitoramento:** Prometheus, Grafana
-- **Outras Ferramentas:** Git, Redis, Apache Ignite
-
----
-
-### 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=markdavishive&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markdavishive&layout=compact&theme=tokyonight&hide_border=true" />
+<p align="left">
+    <a href="https://linkedin.com/in/mark-davis-junior">
+        <img 
+            alt="LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
+        />
+    </a>
+    <a href="mailto:markdavisjr01@gmail.com">
+        <img 
+            alt="Gmail" 
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+        />
+    </a>
 </p>
 
 ---
 
-### 📚 Projetos em Destaque
+### 🧰 Linguagens & Tecnologias
 
-- [**Infraestrutura como Código com Terraform**](#): Automação de provisionamento de recursos na AWS utilizando Terraform e Terragrunt.
-- [**Pipeline CI/CD com GitHub Actions**](#): Implementação de pipelines de integração e entrega contínua com foco em qualidade e segurança.
-- [**Orquestração com Kubernetes e ArgoCD**](#): Gerenciamento de aplicações em contêineres com Kubernetes e deploy automatizado via ArgoCD.
+<!-- IaC -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" alt="Terraform" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" alt="AWS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" alt="Huawei Cloud (simulação GCP)" />
+
+<!-- Containers -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes" />
+
+<!-- Languages -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" alt="Golang" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" alt="Vue.js" />
+
+<!-- CI/CD -->
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/ArgoCD-FE0000?style=for-the-badge&logo=argo&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Atlantis-000000?style=for-the-badge&logo=terraform&logoColor=white" height="30"/>
+
+<!-- Security -->
+<img src="https://img.shields.io/badge/SonarCloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Snyk-4C0A7B?style=for-the-badge&logo=snyk&logoColor=white" height="30"/>
+
+<!-- SCM -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
+
+<br/><br/>
 
 ---
 
-### 📬 Contato
+### 📊 Estatísticas
 
-- LinkedIn: [linkedin.com/in/mark-davis-junior](https://linkedin.com/in/mark-davis-junior)
-- E-mail: [markdavisjr01@gmail.com](mailto:markdavisjr01@gmail.com)
+<p align="left">
+  <img 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api?username=markdavishive&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+  <img 
+    alt="Top Langs" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=markdavishive&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
 
 ---
 
-### 🧠 Keep shipping. Keep scaling. 🚀
+### 🧠 Keep shipping. Keep scaling.
