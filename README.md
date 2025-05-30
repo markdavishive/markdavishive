@@ -17,8 +17,6 @@
 - 🚀 **Cloud & DevOps Engineer** com foco em infraestrutura automatizada, escalável e resiliente
 - 🔧 **Especialista em IaC (Terraform, CloudFormation), Kubernetes, Docker e automação de pipelines CI/CD**
 - 🔐 **DevSecOps:** integração contínua de segurança com Snyk, SonarCloud e práticas preventivas
-- 🌐 **Ambientes Multi-Cloud:** AWS, Huawei Cloud, e expansão contínua para arquitetura distribuída
-- 📈 **Obsessão por performance, estabilidade e eficiência operacional**
 
 ---
 
