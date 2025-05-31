@@ -24,11 +24,47 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/mark-davis-junior" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:markdavisjr01@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+<p align="center">
+  <!-- Cloud -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Badge" />
+  <img src="https://img.shields.io/badge/Huawei%20Cloud-FF0000?style=flat-square&logo=huawei&logoColor=white" alt="Huawei Cloud Badge" />
+
+  <!-- IaC -->
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform Badge" />
+  <img src="https://img.shields.io/badge/CloudFormation-FF4F8B?style=flat-square&logo=aws&logoColor=white" alt="CloudFormation Badge" />
+
+  <!-- Containers & Orquestração -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Badge" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes Badge" />
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="ArgoCD Badge" />
+
+  <!-- CI/CD -->
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions Badge" />
+  <img src="https://img.shields.io/badge/Atlantis-000000?style=flat-square&logo=terraform&logoColor=white" alt="Atlantis Badge" />
+
+  <!-- Linguagens -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Badge" />
+  <img src="https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Golang Badge" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js Badge" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js Badge" />
+
+  <!-- Segurança -->
+  <img src="https://img.shields.io/badge/Snyk-4C0A7B?style=flat-square&logo=snyk&logoColor=white" alt="Snyk Badge" />
+  <img src="https://img.shields.io/badge/SonarCloud-F3702A?style=flat-square&logo=sonarcloud&logoColor=white" alt="SonarCloud Badge" />
+
+  <!-- Versionamento -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git Badge" />
 </p>
 
 ---
@@ -36,32 +72,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=markdavishive&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=markdavishive&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=markdavishive&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markdavishive&layout=compact&theme=gruvbox&hide_border=true" />
 </p>
 
 ---
 
-### 🧰 Tecnologias & Ferramentas
+### 🔥 Contribuições Recentes
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Badge" />
-  <img src="https://img.shields.io/badge/Snyk-4C0A7B?style=for-the-badge&logo=snyk&logoColor=white" alt="Snyk Badge" />
-  <img src="https://img.shields.io/badge/SonarCloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white" alt="SonarCloud Badge" />
-</p>
-
----
-
-### 🔥 Atividade Recentes
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=markdavishive&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=markdavishive&theme=gruvbox&hide_border=true" />
 </p>
 
 ---
