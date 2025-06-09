@@ -1,9 +1,13 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B42BC&height=120&section=header"/>
+<p align="center">
+  <img width="100%" src="https://images.pexels.com/photos/1121123/pexels-photo-1121123.jpeg" alt="Banner com gemas roxas abstratas"/>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B42BC&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A55CFF&size=30&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Mark+Davis!👋;Sou+Engenheiro+de+Cloud+&+DevOps+☁️;Especialista+em+AWS,+Terraform+e+Kubernetes+🚀)](https://git.io/typing-svg)
 
 <ul>
-  <li><em>🚀 Engenheiro de Cloud & DevOps Pleno na <a href="#">HIVEPlace</a>.</em></li>
+  <li><em>🚀 Engenheiro de Cloud & DevOps Pleno na <a href="https://www.hiveplace.com.br/">HIVEPlace</a>.</em></li>
   <li><em>🔧 Foco em automação de infraestrutura (IaC), orquestração de contêineres e práticas GitOps.</em></li>
   <li><em>🔐 Apaixonado por DevSecOps e por construir sistemas resilientes e seguros.</em></li>
 </ul>
@@ -45,8 +49,12 @@
 
 <br>
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Tux - Mascote do Linux" align="right" width="100">
+
 <div align="center">
   <code></> Keep shipping. Keep scaling. 🚀 </></code>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B42BC&height=120&section=footer"/>
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B42BC&height=120&section=footer"/>
