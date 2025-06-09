@@ -1,7 +1,4 @@
 <p align="center">
-  <img width="100%" src="https://images.pexels.com/photos/1121123/pexels-photo-1121123.jpeg" alt="Banner com gemas roxas abstratas"/>
-</p>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B42BC&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A55CFF&size=30&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Mark+Davis!👋;Sou+Engenheiro+de+Cloud+&+DevOps+☁️;Especialista+em+AWS,+Terraform+e+Kubernetes+🚀)](https://git.io/typing-svg)
