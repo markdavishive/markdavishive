@@ -23,23 +23,25 @@
 ### Minhas Estatísticas no GitHub
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=markdavishive&show_icons=true&hide_border=false&border_color=A55CFF&title_color=A55CFF&icon_color=A55CFF&text_color=FFF&bg_color=0d1117&locale=pt-br" alt="Estatísticas de Mark Davis no GitHub" /> 
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=markdavishive&show_icons=true&hide_border=false&border_color=A55CFF&title_color=A55CFF&icon_color=A55CFF&text_color=FFF&bg_color=0d1117&locale=pt-br" alt="Estatísticas de Mark Davis no GitHub" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markdavishive&layout=compact&hide_border=false&border_color=A55CFF&title_color=A55CFF&text_color=FFF&bg_color=0d1117&locale=pt-br" alt="Linguagens mais usadas por Mark Davis" />
 </div>
 
 ### 🛠️ Linguagens e Ferramentas
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,terraform,cloudformation,docker,kubernetes,argocd,githubactions,snyk,sonarqube,python,go,nodejs,vue,git&theme=dark&perline=7" />
-  </a>
-</p>
-
-<br>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Tux - Mascote do Linux" align="right" width="100">
-
+<!-- Seção de Skills corrigida: Ícones centralizados e organizados -->
 <div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,terraform,cloudformation,docker,kubernetes,argocd,githubactions,snyk,sonarqube,python,go,nodejs,vue,git,linux,github,grafana,shell,stackoverflow,vscode&theme=dark&perline=10" />
+  </a>
+</div>
+
+<!-- A tag <br> foi removida daqui para diminuir o espaço vertical -->
+
+<!-- Mascote e frase movidos para uma seção separada para não interferir no layout -->
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Tux - Mascote do Linux" align="center" width="80">
+  <br>
   <code></> Keep shipping. Keep scaling. 🚀 </></code>
 </div>
 
