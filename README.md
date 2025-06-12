@@ -22,9 +22,9 @@
 
 ### Minhas Estatísticas no GitHub
 
+<!-- Seção de estatísticas atualizada -->
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=markdavishive&show_icons=true&hide_border=false&border_color=A55CFF&title_color=A55CFF&icon_color=A55CFF&text_color=FFF&bg_color=0d1117&locale=pt-br" alt="Estatísticas de Mark Davis no GitHub" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markdavishive&layout=compact&hide_border=false&border_color=A55CFF&title_color=A55CFF&text_color=FFF&bg_color=0d1117&locale=pt-br" alt="Linguagens mais usadas por Mark Davis" />
+  <img src="https://github-readme-stats.vercel.app/api?username=markdavishive&show_icons=true&hide_border=false&border_color=A55CFF&title_color=A55CFF&icon_color=A55CFF&text_color=FFF&bg_color=0d1117&locale=pt-br" alt="Estatísticas de Mark Davis no GitHub" />
 </div>
 
 ### 🛠️ Linguagens e Ferramentas
