@@ -31,17 +31,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,terraform,cloudformation,docker,kubernetes,argocd&theme=dark&perline=6" />
+    <img src="https://skillicons.dev/icons?i=aws,terraform,cloudformation,docker,kubernetes,argocd,githubactions,snyk,sonarqube,python,go,nodejs,vue,git&theme=dark&perline=7" />
   </a>
-  <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=githubactions,snyk,sonarqube,python,go,nodejs,vue,git&theme=dark&perline=8" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Huawei%20Cloud-FF0000?style=for-the-badge&logo=huawei&logoColor=white" alt="Huawei Cloud" />
-  <img src="https://img.shields.io/badge/Atlantis-000000?style=for-the-badge&logo=terraform&logoColor=white" alt="Atlantis" />
 </p>
 
 <br>
