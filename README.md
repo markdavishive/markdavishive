@@ -38,13 +38,13 @@
   <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,python,go,grafana,prometheus,linux,git&theme=dark&perline=10" />
 </div>
 
-**Cloud Platforms:** AWS (Solutions Architect level), Azure, GCP  
-**IaC & Automation:** Terraform, Terragrunt, CloudFormation, Ansible  
-**Container & Orchestration:** Kubernetes, Docker, Helm, ArgoCD  
-**CI/CD:** GitHub Actions, GitLab CI, Jenkins  
-**Monitoring:** Grafana, Prometheus, ELK Stack, Datadog  
-**Security:** Snyk, SonarQube, Vault, IAM Best Practices  
-**Languages:** Python, Go, Shell/Bash, YAML, HCL  
+**Cloud Platforms:** AWS (Solutions Architect level)  
+**IaC & Automation:** Terraform, Terragrunt, CloudFormation
+**Container & Orchestration:** Kubernetes, Docker, Helm  
+**CI/CD:** GitHub Actions
+**Monitoring:** Grafana, Prometheus  
+**Security:** Snyk, SonarQube, IAM Best Practices  
+**Languages:** Python, Shell/Bash, YAML, HCL  
 
 ### 💼 Implementações em Produção
 
