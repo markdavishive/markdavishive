@@ -30,20 +30,22 @@
   <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,python,go,grafana,prometheus,linux,git&theme=dark&perline=10" />
 </div>
 
-**Cloud:** AWS (Solutions Architect level)  
-**IaC:** Terraform • Terragrunt • CloudFormation  
-**Orchestration:** Kubernetes • Docker • Helm  
-**CI/CD:** GitHub Actions  
-**Monitoring:** Grafana • Prometheus  
-**Security:** Snyk • SonarQube • IAM  
-**Languages:** Python • Shell/Bash • YAML • HCL  
+| Category | Technologies |
+|----------|-------------|
+| **Cloud** | AWS (Solutions Architect level) |
+| **IaC** | Terraform • Terragrunt • CloudFormation |
+| **Orchestration** | Kubernetes • Docker • Helm |
+| **CI/CD** | GitHub Actions |
+| **Monitoring** | Grafana • Prometheus |
+| **Security** | Snyk • SonarQube • IAM |
+| **Languages** | Python • Shell/Bash • YAML • HCL |  
 
 ### 💼 Production Implementations
 
 ```yaml
 Infrastructure:
   - Multi-env AWS workloads via Terraform
-  - Kubernetes clusters: nodes, pods
+  - Kubernetes clusters: 100+ nodes, 1000+ pods
   - Zero-downtime deployments: 99.9% uptime
 
 Optimization:
