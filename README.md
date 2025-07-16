@@ -43,7 +43,7 @@
 ```yaml
 Infrastructure:
   - Multi-env AWS workloads via Terraform
-  - Kubernetes clusters: 100+ nodes, 1000+ pods
+  - Kubernetes clusters: nodes, pods
   - Zero-downtime deployments: 99.9% uptime
 
 Optimization:
