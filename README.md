@@ -1,76 +1,58 @@
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B42BC&height=120&section=header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B42BC&height=120&section=header"/>
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=A55CFF&size=35&center=true&vCenter=true&width=1000&lines=Mark+Davis;Cloud+%26+DevOps+Engineer;Infrastructure+as+Code+Specialist;AWS+%26+Kubernetes+Expert" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=A55CFF&size=28&center=true&vCenter=true&width=1000&lines=Mark+Davis;Engenharia+Cloud+%26+DevOps;Infraestrutura+como+Código+%7C+Kubernetes+%7C+Automação+de+Entrega;Produção+%E2%80%94+confiabilidade%2C+segurança+e+observabilidade" />
 </div>
 
-## 🎯 Cloud & DevOps Engineer
+## 🎯 Engenheiro Cloud & DevOps (produção em primeiro lugar)
 
-**Engenheiro de Cloud & DevOps Pleno** na [HIVEPlace](https://www.hiveplace.com.br/) • Especialista em arquiteturas escaláveis e automação de infraestrutura crítica
+Engenheiro de Cloud & DevOps Pleno na [HIVEPlace](https://www.hiveplace.com.br/) • foco em **infraestrutura escalável**, **automação de mudanças** e **confiabilidade operacional**.
 
-### 🏗️ Core Expertise
+### 🧠 O que eu faço em produção
 
-**Infrastructure as Code**
-- Módulos Terraform reutilizáveis • Terragrunt multi-env • CloudFormation AWS
+- **Infraestrutura como Código (IaC):** padrões e módulos com Terraform/Terragrunt, ambientes isolados e controle de *drift*  
+- **Kubernetes:** operação e evolução de workloads, estratégias seguras de deploy (progressivo/rollback) e automação de rotina  
+- **CI/CD:** pipelines com *gates* (testes, qualidade, segurança), versionamento e rastreabilidade de mudanças  
+- **Segurança pragmática:** IAM por menor privilégio, revisão de permissões e boas práticas de supply chain  
+- **Observabilidade:** métricas e alertas acionáveis, postura orientada a SLI/SLO e redução de ruído operacional  
+- **Troubleshooting & melhorias contínuas:** diagnóstico rápido, correções com aprendizado e prevenção de recorrência
 
-**Container Orchestration**
-- Kubernetes clusters em produção • GitOps pipelines • Blue-green deployments
-
-**CI/CD & Security**
-- GitHub Actions pipelines • Snyk/SonarQube integration • Shift-left security
-
-**Observability**
-- Grafana monitoring stacks • Centralized logging • SLI/SLO metrics
-
-### 🛠️ Tech Stack
+### 🧰 Stack (do dia a dia)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,python,go,grafana,prometheus,linux,git&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,linux,git,githubactions,prometheus,grafana,python&theme=dark&perline=10" />
 </div>
 
-| Category | Technologies |
+| Categoria | Tecnologias |
 |----------|-------------|
-| **Cloud** | AWS (Solutions Architect level) |
+| **Cloud** | AWS |
 | **IaC** | Terraform • Terragrunt • CloudFormation |
-| **Orchestration** | Kubernetes • Docker • Helm |
+| **Orquestração** | Kubernetes • Docker • Helm |
 | **CI/CD** | GitHub Actions |
-| **Monitoring** | Grafana • Prometheus |
-| **Security** | Snyk • SonarQube • IAM |
-| **Languages** | Python • Shell/Bash • YAML • HCL |  
+| **Observabilidade** | Prometheus • Grafana |
+| **Segurança** | IAM • Snyk • SonarQube |
+| **Linguagens** | Python • Bash • YAML • HCL |
 
-### 💼 Production Implementations
+### 🏗️ Destaques (sem marketing, só engenharia)
 
-```yaml
-Infrastructure:
-  - Multi-env AWS workloads via Terraform
-  - Kubernetes clusters: nodes, pods
-  - Zero-downtime deployments: 99.9% uptime
+- Mudanças com **rastreabilidade**, revisão por PR e **rollback** como parte do fluxo  
+- Padronização de infraestrutura para **reduzir variação entre ambientes** (e dor em incidentes)  
+- Automação para tirar trabalho repetitivo do caminho e **aumentar previsibilidade**  
+- Foco em **confiabilidade**, custo sob controle e segurança aplicada com pragmatismo
 
-Optimization:
-  - Cost reduction: 40% via automation
-  - Security hardening: automated compliance
-  - Performance: SLI/SLO-driven monitoring
-```
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=markdavishive&show_icons=true&hide_border=false&border_color=A55CFF&title_color=A55CFF&icon_color=A55CFF&text_color=FFF&bg_color=0d1117&locale=pt-br" alt="GitHub Stats" />
-</div>
-
-### 🤝 Connect
+### 🤝 Conecte-se comigo
 
 <p align="center">
   <a href="https://linkedin.com/in/mark-davis-junior" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=A55CFF" alt="LinkedIn"/>
   </a>
   <a href="mailto:markdavisjr01@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=A55CFF" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=A55CFF" alt="Email"/>
   </a>
 </p>
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B42BC&height=120&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B42BC&height=120&section=footer"/>
 </p>
