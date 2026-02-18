@@ -72,6 +72,10 @@ Menor privilégio de verdade, revisão de permissões no fluxo de PR e supply ch
   <img width="100%" src="https://raw.githubusercontent.com/markdavishive/markdavishive/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/markdavishive/markdavishive/output/profile-night-rainbow.svg"/>
+</div>
+
 ---
 
 <p align="center">
