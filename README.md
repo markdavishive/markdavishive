@@ -3,55 +3,81 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=A55CFF&size=28&center=true&vCenter=true&width=1000&lines=Mark+Davis;Engenharia+Cloud+%26+DevOps;Infraestrutura+como+Código+%7C+Kubernetes+%7C+Automação+de+Entrega;Produção+%E2%80%94+confiabilidade%2C+segurança+e+observabilidade" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=A55CFF&size=26&center=true&vCenter=true&width=900&lines=Mark+Davis;Cloud+%26+DevOps+Engineer;Infrastructure+that+doesn't+wake+you+up+at+3am" />
 </div>
 
-## 🎯 Engenheiro Cloud & DevOps (produção em primeiro lugar)
-
-Engenheiro de Cloud & DevOps Pleno na [HIVEPlace](https://www.hiveplace.com.br/) • foco em **infraestrutura escalável**, **automação de mudanças** e **confiabilidade operacional**.
-
-### 🧠 O que eu faço em produção
-
-- **Infraestrutura como Código (IaC):** padrões e módulos com Terraform/Terragrunt, ambientes isolados e controle de *drift*  
-- **Kubernetes:** operação e evolução de workloads, estratégias seguras de deploy (progressivo/rollback) e automação de rotina  
-- **CI/CD:** pipelines com *gates* (testes, qualidade, segurança), versionamento e rastreabilidade de mudanças  
-- **Segurança pragmática:** IAM por menor privilégio, revisão de permissões e boas práticas de supply chain  
-- **Observabilidade:** métricas e alertas acionáveis, postura orientada a SLI/SLO e redução de ruído operacional  
-- **Troubleshooting & melhorias contínuas:** diagnóstico rápido, correções com aprendizado e prevenção de recorrência
-
-### 🧰 Stack (do dia a dia)
+<br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,linux,git,githubactions,prometheus,grafana,python&theme=dark&perline=10" />
+  <a href="https://linkedin.com/in/mark-davis-junior">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=A55CFF"/>
+  </a>
+  <a href="mailto:markdavisjr01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=A55CFF"/>
+  </a>
 </div>
 
-| Categoria | Tecnologias |
-|----------|-------------|
-| **Cloud** | AWS |
-| **IaC** | Terraform • Terragrunt • CloudFormation |
-| **Orquestração** | Kubernetes • Docker • Helm |
+---
+
+## Sobre
+
+Engenheiro Cloud & DevOps na [HIVEPlace](https://www.hiveplace.com.br/) com foco em **infraestrutura que sustenta produção sem surpresas** — não em fazer parecer que a infraestrutura é sofisticada.
+
+Meu trabalho é garantir que mudanças não quebrem coisas, que incidentes tenham resolução rápida e aprendizado real, e que a complexidade operacional não cresça mais rápido do que a equipe consegue absorver.
+
+---
+
+## Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,linux,git,githubactions,prometheus,grafana,python&theme=dark&perline=10"/>
+</div>
+
+<br/>
+
+| Domínio | Ferramentas |
+|---|---|
+| **Cloud** | AWS (EC2, EKS, RDS, S3, IAM, CloudWatch) |
+| **IaC** | Terraform · Terragrunt · CloudFormation |
+| **Containers** | Kubernetes · Docker · Helm |
 | **CI/CD** | GitHub Actions |
-| **Observabilidade** | Prometheus • Grafana |
-| **Segurança** | IAM • Snyk • SonarQube |
-| **Linguagens** | Python • Bash • YAML • HCL |
+| **Observabilidade** | Prometheus · Grafana · Alertmanager |
+| **Segurança** | IAM least-privilege · Snyk · SonarQube |
+| **Linguagens** | Python · Bash · HCL · YAML |
 
-### 🏗️ Destaques (sem marketing, só engenharia)
+---
 
-- Mudanças com **rastreabilidade**, revisão por PR e **rollback** como parte do fluxo  
-- Padronização de infraestrutura para **reduzir variação entre ambientes** (e dor em incidentes)  
-- Automação para tirar trabalho repetitivo do caminho e **aumentar previsibilidade**  
-- Foco em **confiabilidade**, custo sob controle e segurança aplicada com pragmatismo
+## O que entrego
 
-### 🤝 Conecte-se comigo
+**Infraestrutura como Código com controle real de drift**
+Módulos Terraform/Terragrunt com padrão entre ambientes — porque incidente em produção não é hora de descobrir que dev e prod são diferentes.
 
-<p align="center">
-  <a href="https://linkedin.com/in/mark-davis-junior" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=A55CFF" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:markdavisjr01@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=A55CFF" alt="Email"/>
-  </a>
-</p>
+**Kubernetes operado, não só instalado**
+Deploy progressivo, rollback automatizado e workloads com resource limits que fazem sentido. Cluster que funciona de madrugada sem intervenção manual.
+
+**CI/CD com gates que bloqueiam antes de chegar em prod**
+Testes, análise de segurança e qualidade como etapas obrigatórias — não como etapas opcionais que ninguém remove por medo.
+
+**Observabilidade orientada a ação**
+SLIs/SLOs definidos, alertas que apontam causa (não sintoma) e dashboards que alguém de plantão consegue ler às 2h da manhã.
+
+**Segurança aplicada, não aspiracional**
+Menor privilégio de verdade, revisão de permissões no fluxo de PR e supply chain com verificação de dependências — sem bloquear entrega.
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=A55CFF&icon_color=7B42BC&text_color=c9d1d9&border_color=30363d&hide_border=false&count_private=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=A55CFF&text_color=c9d1d9&border_color=30363d&hide_border=false&langs_count=6"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&background=0d1117&border=30363d&ring=7B42BC&fire=A55CFF&currStreakLabel=A55CFF"/>
+</div>
+
+---
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B42BC&height=120&section=footer"/>
