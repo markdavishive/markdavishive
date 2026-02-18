@@ -69,7 +69,7 @@ Menor privilégio de verdade, revisão de permissões no fluxo de PR e supply ch
 ## Atividade
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&bg_color=0d1117&color=A55CFF&line=7B42BC&point=A55CFF&area=true&area_color=7B42BC&hide_border=true"/>
+  <img width="100%" src="https://raw.githubusercontent.com/markdavishive/markdavishive/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
 ---
