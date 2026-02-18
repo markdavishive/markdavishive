@@ -2,7 +2,7 @@ name: Generate 3D Contribution
 
 on:
   schedule:
-    - cron: "0 1 * * *"  # roda todo dia à 1h (após o snake que roda à 0h)
+    - cron: "0 1 * * *"
   workflow_dispatch:
 
 jobs:
@@ -19,10 +19,23 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: markdavishive
 
-      - name: Push output
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Checkout output branch
+        uses: actions/checkout@v4
         with:
-          target_branch: output
-          build_dir: profile-3d-contrib
+          ref: output
+          path: output-branch
+
+      - name: Copy 3D files preservando os existentes
+        run: |
+          cp profile-3d-contrib/*.svg output-branch/
+
+      - name: Commit e push
+        run: |
+          cd output-branch
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add *.svg
+          git commit -m "Update 3D contribution graph" || echo "Nothing to commit"
+          git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
