@@ -66,15 +66,10 @@ Menor privilégio de verdade, revisão de permissões no fluxo de PR e supply ch
 
 ---
 
-## GitHub Stats
+## Atividade
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=A55CFF&icon_color=7B42BC&text_color=c9d1d9&border_color=30363d&hide_border=false&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=A55CFF&text_color=c9d1d9&border_color=30363d&hide_border=false&langs_count=6"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&background=0d1117&border=30363d&ring=7B42BC&fire=A55CFF&currStreakLabel=A55CFF"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&bg_color=0d1117&color=A55CFF&line=7B42BC&point=A55CFF&area=true&area_color=7B42BC&hide_border=true"/>
 </div>
 
 ---
